@@ -1,0 +1,15 @@
+* SQL_experiments
+  Some experiments with SQL queries and Postgresql
+
+* Resources
+  - [[https://insights.stackoverflow.com/survey/][Stackoverflow developer surveys]]
+  - [[http://ghtorrent.org/dblite/][Github (ghtorrent)]]
+  - [[https://data.stackexchange.com/stackoverflow/query/new][Stackoverflow]]
+
+* Queries (Ideas)
+  - Count number of commits, pull requests, issues 
+    over last 5 years as a function of day of the week.
+  - Top 10 Largest non-abandoned repositories without any stars
+
+  - Top 10 tags with the most unanswered/total questions
+  - Most downvoted tags
